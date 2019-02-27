@@ -1,7 +1,7 @@
 # C-language
 My practice for C language
   * IDE : Dev-C++
-  * Download address : https://sourceforge.net/projects/orwelldevcpp/
+  * Download : https://sourceforge.net/projects/orwelldevcpp/
 # Outline
 Unit-1
  * Hello World
