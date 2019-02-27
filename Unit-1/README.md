@@ -7,5 +7,6 @@ Welcome to learn C language!
 
 int main()   //主程式進入點
 {
+...//C語言程式
 }
 ```
