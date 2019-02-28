@@ -20,3 +20,10 @@ Unit-2
  * Printf()-7
  * Printf()-8
  * Printf()-9
+ * Scanf()-1
+ * Scanf()-2
+ * Scanf()-3
+ * Scanf()-4
+ * Scanf()-5
+ 
+Unit-3
