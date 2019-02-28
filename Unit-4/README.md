@@ -29,7 +29,7 @@ Selection statements involve :
  
   * else if
  ```c
-  if(...條件運算式...)
+ if(...條件運算式...)
  {
   條件運算式為真時所執行的敘述;
  }
