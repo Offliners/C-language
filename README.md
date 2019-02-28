@@ -35,7 +35,7 @@ Unit-3  Operators
  * Operator-8
  * Operator-9
 
-Unit-4  Statement
+Unit-4  Selection Statement
  * If
  * If-else-1
  * If-else-2
@@ -45,7 +45,7 @@ Unit-4  Statement
  * If-else-6
  * If-else-7
  
-Unit-5  Loop
+Unit-5  Loop Statement
 
 Unit-6  Functions and Storage classes
 
