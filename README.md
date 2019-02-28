@@ -58,7 +58,7 @@ Unit-8  Pointer I
 
 Unit-9  Pointer II
 
-Unit-10 Char and String
+Unit-10 Character and String
 
 Unit-11 Structure
 
