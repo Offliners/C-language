@@ -47,6 +47,12 @@ Unit-4  Selection Statement
  * Conditional Operator
  * else-if-1
  * else-if-2
+ * else-if-3
+ * Switch-case-1
+ * Switch-case-2
+ * Switch-case-3
+ * IsLeapYear
+ * BMI
  
 Unit-5  Loop Statement
 
