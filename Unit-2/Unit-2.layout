@@ -4,10 +4,10 @@ CursorRow=1
 TopLine=1
 LeftChar=1
 [Editor_0]
-CursorCol=10
-CursorRow=11
+CursorCol=6
+CursorRow=13
 TopLine=1
 LeftChar=1
 [Editors]
-Order=
+Order=0
 Focused=0

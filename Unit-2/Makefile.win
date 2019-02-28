@@ -4,8 +4,8 @@
 CPP      = g++.exe
 CC       = gcc.exe
 WINDRES  = windres.exe
-OBJ      = "../../../../Github\ for\ C/Unit-2/printf-4.o"
-LINKOBJ  = "../../../../Github for C/Unit-2/printf-4.o"
+OBJ      = printf-9.o
+LINKOBJ  = printf-9.o
 LIBS     = -L"D:/Dev-Cpp/MinGW64/lib" -L"D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
 INCS     = -I"D:/Dev-Cpp/MinGW64/include" -I"D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
 CXXINCS  = -I"D:/Dev-Cpp/MinGW64/include" -I"D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
@@ -24,5 +24,5 @@ clean: clean-custom
 $(BIN): $(OBJ)
 	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
 
-"../../../../Github\ for\ C/Unit-2/printf-4.o": ../../../../Github\ for\ C/Unit-2/printf-4.c
-	$(CC) -c "../../../../Github for C/Unit-2/printf-4.c" -o "../../../../Github for C/Unit-2/printf-4.o" $(CFLAGS)
+printf-9.o: printf-9.c
+	$(CC) -c printf-9.c -o printf-9.o $(CFLAGS)
