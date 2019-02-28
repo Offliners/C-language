@@ -5,12 +5,12 @@ My practice for C language
   
 I use annotation in my code to mention some coding skills. Also, there are introductions in README.md of every unit.   
 # Outline
-Unit-1
+Unit-1  Warm-up
  * Hello World
  * Output
  * Output-2
  
-Unit-2
+Unit-2  I/O
  * Printf()-1
  * Printf()-2
  * Printf()-3
@@ -24,7 +24,7 @@ Unit-2
  * Scanf()-2
  * Scanf()-3
  
-Unit-3
+Unit-3  Operators
  * Operator-1
  * Operator-2
  * Operator-3
@@ -34,3 +34,23 @@ Unit-3
  * Operator-7
  * Operator-8
  * Operator-9
+
+Unit-4  Statement
+
+Unit-5  Loop
+
+Unit-6  Functions and Storage classes
+
+Unit-7  Arrays
+
+Unit-8  Pointer I
+
+Unit-9  Pointer II
+
+Unit-10 Char and String
+
+Unit-11 Structure
+
+Unit-12 File
+
+Unit-13 Other
