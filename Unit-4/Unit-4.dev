@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=else-if-2.c
+FileName=BMI.c
 CompileCpp=0
 Folder=
 Compile=1
