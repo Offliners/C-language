@@ -1,5 +1,5 @@
 ##Unit-2
-In this unit, I will show you how to input and output data by using printf and scanf.
+ * In this unit, I will show you how to input and output data by using printf and scanf.
 ```C
 #include<stdio.h>
 #include<stdlib.h>
