@@ -12,5 +12,5 @@ int main()
   scanf("...格式特定字...",變數的位址);
   system("pause");
   return 0;
- }
+}
 ```
