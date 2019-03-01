@@ -1,12 +1,10 @@
 ##Unit-5
+
 Loop statement is important for coding. You can use it to reduce numerous, repeated or similar steps.
 
 Loop statements envolve
- * For loop
- * While loop
- * Do...while loop
  
-For loop
+* For loop
 ```c
 for(初始值設定;條件運算式;更新運算式)
 {
