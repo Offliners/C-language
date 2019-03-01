@@ -3,7 +3,7 @@ My practice for C language
   * IDE : Dev-C++
   * Download : https://sourceforge.net/projects/orwelldevcpp/
   
-If you are a beginner for programing, you can follow my guide and see my code. I use annotation in my code to mention some coding skills. Also, there are introductions in README.md of every unit. With these, you can learn C language step by step.    
+If you are a beginner for programing, you can follow my guide and see my code. I use annotation in my code to mention some coding skills and concepts. Also, there are introductions in README.md of every unit. With these, you can learn C language step by step.    
 # Outline
 Unit-1  Warm-up
  * Hello World
