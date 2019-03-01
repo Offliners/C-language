@@ -20,18 +20,20 @@ Unit-2  I/O
  * [Printf()-7](Unit-2/printf-7.c)
  * [Printf()-8](Unit-2/printf-8.c)
  * [Printf()-9](Unit-2/printf-9.c)
- 
+ * [Scanf()-1](Unit-2/scanf-1.c)
+ * [Scanf()-2](Unit-2/scanf-2.c)
+ * [Scanf()-3](Unit-2/scanf-3.c)
+   
 Unit-3  Operators
- * Operator-1
- * Operator-2
- * Operator-3
- * Operator-4
- * Operator-5
- * Operator-6
- * Operator-7
- * Operator-8
- * Operator-9
-
+ * [Operator-1](Unit-3/operator-1.c)
+ * [Operator-2](Unit-3/operator-2.c)
+ * [Operator-3](Unit-3/operator-3.c)
+ * [Operator-4](Unit-3/operator-4.c)
+ * [Operator-5](Unit-3/operator-5.c)
+ * [Operator-6](Unit-3/operator-6.c)
+ * [Operator-7](Unit-3/operator-7.c)
+ * [Operator-8](Unit-3/operator-8.c)
+ * [Operator-9](Unit-3/operator-9.c)
 
 Unit-4  Selection Statement
  * If
