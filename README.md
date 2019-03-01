@@ -10,6 +10,7 @@ Unit-1  Warm-up
  * Output
  * Output-2
  
+ 
 Unit-2  I/O
  * Printf()-1
  * Printf()-2
@@ -24,6 +25,7 @@ Unit-2  I/O
  * Scanf()-2
  * Scanf()-3
  
+ 
 Unit-3  Operators
  * Operator-1
  * Operator-2
@@ -34,6 +36,7 @@ Unit-3  Operators
  * Operator-7
  * Operator-8
  * Operator-9
+
 
 Unit-4  Selection Statement
  * If
@@ -53,6 +56,7 @@ Unit-4  Selection Statement
  * Switch-case-3
  * IsLeapYear
  * BMI
+ 
  
 Unit-5  Loop Statement
 
