@@ -55,15 +55,15 @@ Unit-4  Selection Statement
  * [BMI](Unit-4/BMI.c)
  
 Unit-5  Loop Statement
- * For-1
- * For-2
- * For-3
- * For-4
- * For-5
- * For-6
- * While-1
- * While-2
- * While-3
+ * [For-1](Unit-5/for-1.c)
+ * [For-2](Unit-5/for-2.c)
+ * [For-3](Unit-5/for-3.c)
+ * [For-4](Unit-5/for-4.c)
+ * [For-5](Unit-5/for-5.c)
+ * [For-6](Unit-5/for-6.c)
+ * [While-1](Unit-5/while-1.c)
+ * [While-2](Unit-5/while-1.c)
+ * [While-3](Unit-5/while-1.c)
  
 Unit-6  Functions and Storage classes
 
