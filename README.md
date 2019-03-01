@@ -7,22 +7,19 @@ If you are a beginner for programing, you can follow my guide and see my code. I
 # Outline
 Unit-1  Warm-up
  * [Hello World](Unit-1/HelloWorld.c)
- * Output
- * Output-2
+ * [Output](Unit-1/Output.c)
+ * [Output-2](Unit-1/Output-2.c)
   
 Unit-2  I/O
- * Printf()-1
- * Printf()-2
- * Printf()-3
- * Printf()-4
- * Printf()-5
- * Printf()-6
- * Printf()-7
- * Printf()-8
- * Printf()-9
- * Scanf()-1
- * Scanf()-2
- * Scanf()-3
+ * [Printf()-1](Unit-2/printf-1.c)
+ * [Printf()-2](Unit-2/printf-2.c)
+ * [Printf()-3](Unit-2/printf-3.c)
+ * [Printf()-4](Unit-2/printf-4.c)
+ * [Printf()-5](Unit-2/printf-5.c)
+ * [Printf()-6](Unit-2/printf-6.c)
+ * [Printf()-7](Unit-2/printf-7.c)
+ * [Printf()-8](Unit-2/printf-8.c)
+ * [Printf()-9](Unit-2/printf-9.c)
  
 Unit-3  Operators
  * Operator-1
