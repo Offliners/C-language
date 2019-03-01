@@ -62,6 +62,9 @@ Unit-5  Loop Statement
  * For-4
  * For-5
  * For-6
+ * While-1
+ * While-2
+ * While-3
  
 Unit-6  Functions and Storage classes
 
