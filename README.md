@@ -9,8 +9,7 @@ Unit-1  Warm-up
  * Hello World
  * Output
  * Output-2
- 
- 
+  
 Unit-2  I/O
  * Printf()-1
  * Printf()-2
@@ -24,7 +23,6 @@ Unit-2  I/O
  * Scanf()-1
  * Scanf()-2
  * Scanf()-3
- 
  
 Unit-3  Operators
  * Operator-1
@@ -57,9 +55,14 @@ Unit-4  Selection Statement
  * IsLeapYear
  * BMI
  
- 
 Unit-5  Loop Statement
-
+ * For-1
+ * For-2
+ * For-3
+ * For-4
+ * For-5
+ * For-6
+ 
 Unit-6  Functions and Storage classes
 
 Unit-7  Arrays
