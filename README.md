@@ -5,12 +5,14 @@ My practice for C language
   
 If you are a beginner for programing, you can follow my guide and see my code. I use annotation in my code to mention some coding skills and concepts. Also, there are introductions in README.md of every unit. With these, you can learn C language step by step.    
 # Outline
-[Unit-1](Unit-1)   Warm-up
+Unit-1   Warm-up
+ * [Unit-1](Unit-1)
  * [Hello World](Unit-1/HelloWorld.c)
  * [Output](Unit-1/Output.c)
  * [Output-2](Unit-1/Output-2.c)
   
-[Unit-2](Unit-2)   I/O
+Unit-2   I/O
+ * [Unit-2](Unit-2)
  * [Printf()-1](Unit-2/printf-1.c)
  * [Printf()-2](Unit-2/printf-2.c)
  * [Printf()-3](Unit-2/printf-3.c)
@@ -24,7 +26,8 @@ If you are a beginner for programing, you can follow my guide and see my code. I
  * [Scanf()-2](Unit-2/scanf-2.c)
  * [Scanf()-3](Unit-2/scanf-3.c)
    
-[Unit-3](Unit-3)   Operators
+Unit-3   Operators
+ * [Unit-3](Unit-3)
  * [Operator-1](Unit-3/operator-1.c)
  * [Operator-2](Unit-3/operator-2.c)
  * [Operator-3](Unit-3/operator-3.c)
@@ -35,7 +38,8 @@ If you are a beginner for programing, you can follow my guide and see my code. I
  * [Operator-8](Unit-3/operator-8.c)
  * [Operator-9](Unit-3/operator-9.c)
 
-[Unit-4](Unit-4)   Selection Statement
+Unit-4   Selection Statement
+ * [Unit-4](Unit-4)
  * [If](Unit-4/if.c)
  * [If-else-1](Unit-4/if-else-1)
  * [If-else-2](Unit-4/if-else-2)
@@ -54,7 +58,8 @@ If you are a beginner for programing, you can follow my guide and see my code. I
  * [IsLeapYear](Unit-4/IsLeapYear.c)
  * [BMI](Unit-4/BMI.c)
  
-[Unit-5](Unit-5)   Loop Statement
+Unit-5   Loop Statement
+ * [Unit-5](Unit-5)
  * [For-1](Unit-5/for-1.c)
  * [For-2](Unit-5/for-2.c)
  * [For-3](Unit-5/for-3.c)
