@@ -64,6 +64,11 @@ Unit-5  Loop Statement
  * [While-1](Unit-5/while-1.c)
  * [While-2](Unit-5/while-1.c)
  * [While-3](Unit-5/while-1.c)
+ * [Do-while-1](Unit-5/do-while-1.c)
+ * [Do-while-2](Unit-5/do-while-2.c)
+ * [Do-while-3](Unit-5/do-while-3.c)
+ * [Multiplication-Table-1](Unit-5/multiplication-table-1.c)
+ * [Multiplication-Table-2](Unit-5/multiplication-table-2.c)
  
 Unit-6  Functions and Storage classes
 
