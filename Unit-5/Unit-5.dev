@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=while-3.c
+FileName=multiplication-table-2.c
 CompileCpp=0
 Folder=
 Compile=1
