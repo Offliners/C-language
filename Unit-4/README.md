@@ -66,5 +66,5 @@ Selection statements involve :
  }
 ```
 
-How to drow control flow?
+How to drow a control flow?
 Reference : https://support.office.com/zh-tw/article/%E5%BB%BA%E7%AB%8B%E5%9F%BA%E6%9C%AC%E6%B5%81%E7%A8%8B%E5%9C%96-e207d975-4a51-4bfa-a356-eeec314bd276
