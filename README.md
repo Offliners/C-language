@@ -93,6 +93,20 @@ Unit-6  Functions and Storage classes
  * [Function](Unit-6/function.c)
  * [Return-1](Unit-6/return-1.c)
  * [Return-2](Unit-6/return-2.c)
+ * [Argument-1](Unit-6/argument-1.c)
+ * [Argument-2](Unit-6/argument-2.c)
+ * [Argument-3](Unit-6/argument-3.c)
+ * [Variable-1](Unit-6/variable-1.c)
+ * [Variable-2](Unit-6/variable-2.c)
+ * [Variable-3](Unit-6/variable-3.c)
+ * [Factorial-1](Unit-6/factorial-1.c)
+ * [Factorial-2](Unit-6/factorial-2.c)
+ * [Storage-class-1](Unit-6/storage-class-1.c)
+ * [Storage-class-2](Unit-6/storage-class-2.c)
+ * [Storage-class-3](Unit-6/storage-class-3.c)
+ * [Storage-class-4-1](Unit-6/storage-class-4-1.c)
+ * [Storage-class-4-2](Unit-6/storage-class-4-2.c)
+ * [Calendar](Unit-6/calendar.c)
  
 Unit-7  Arrays
 
