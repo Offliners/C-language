@@ -85,7 +85,7 @@ Unit-5   Loop Statement
  * [++-3](Unit-5/++-3.c)
  * [++-4](Unit-5/++-4.c)
  * [isPrime](Unit-5/isPrime.c)
- * [GCD](Unit-5/gcd.c)
+ * [Greatest Common Divisor](Unit-5/gcd.c)
  * [Multiplication-Table-Complete](Unit-5/multiplication-table-complete.c)
  
 Unit-6  Functions and Storage classes
