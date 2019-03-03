@@ -6,7 +6,7 @@ and the storage class of variables.
 Advantage of using function : 
   * Achieve the function of programing modularization
   * Easy to debug
-  * codes can be reused
+  * Codes can be reused
   * Programing team can cooperate to finish big projects
   
 Function basic form
