@@ -74,6 +74,19 @@ Unit-5   Loop Statement
  * [Do-while-3](Unit-5/do-while-3.c)
  * [Multiplication-Table-1](Unit-5/multiplication-table-1.c)
  * [Multiplication-Table-2](Unit-5/multiplication-table-2.c)
+ * [Break-1](Unit-5/break-1.c)
+ * [Break-2](Unit-5/break-2.c)
+ * [Continue-1](Unit-5/continue-1.c)
+ * [Continue-2](Unit-5/continue-2.c)
+ * [Buffer-1](Unit-5/buffer-1.c)
+ * [Buffer-2](Unit-5/buffer-2.c)
+ * [++-1](Unit-5/++-1.c)
+ * [++-2](Unit-5/++-2.c)
+ * [++-3](Unit-5/++-3.c)
+ * [++-4](Unit-5/++-4.c)
+ * [isPrime](Unit-5/isPrime.c)
+ * [GCD](Unit-5/gcd.c)
+ * [Multiplication-Table-Complete](Unit-5/multiplication-table-complete.c)
  
 Unit-6  Functions and Storage classes
 
