@@ -90,6 +90,9 @@ Unit-5   Loop Statement
  
 Unit-6  Functions and Storage classes
  * [Unit-6](Unit-6)
+ * [Function](Unit-6/function.c)
+ * [Return-1](Unit-6/return-1.c)
+ * [Return-2](Unit-6/return-2.c)
  
 Unit-7  Arrays
 
