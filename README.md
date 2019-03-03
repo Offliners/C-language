@@ -90,6 +90,7 @@ Unit-5   Loop Statement
  
 Unit-6  Functions and Storage classes
  * [Unit-6](Unit-6)
+ 
 Unit-7  Arrays
 
 Unit-8  Pointer I
