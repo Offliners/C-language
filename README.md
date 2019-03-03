@@ -89,7 +89,7 @@ Unit-5   Loop Statement
  * [Multiplication-Table-Complete](Unit-5/multiplication-table-complete.c)
  
 Unit-6  Functions and Storage classes
-
+ * [Unit-6](Unit-6)
 Unit-7  Arrays
 
 Unit-8  Pointer I
