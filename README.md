@@ -109,6 +109,9 @@ Unit-6  Functions and Storage classes
  * [Calendar](Unit-6/calendar.c)
  
 Unit-7  Arrays
+ * [Unit-7](Unit-7)
+ * [Basic-Array-1](Unit-7/basic-array-1.c)
+ * [Basic-Array-2](Unit-7/basic-array-2.c)
 
 Unit-8  Pointer I
 
